@@ -1,5 +1,7 @@
 # Session #1 : Data Visualization
 
+korean is not working well on github markdown.
+we can write markdown text on another text editor, and then copy and paste it on here. 
 
 ## Session Package (need to be renamed)
 
