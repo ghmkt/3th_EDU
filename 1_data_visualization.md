@@ -17,6 +17,6 @@ code
 
 ## QUEST
 
--[ ] d 
--[ ] w
--[ ] w
+[x] d 
+[x] w
+[x] w
