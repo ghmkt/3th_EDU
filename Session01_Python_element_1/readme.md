@@ -6,6 +6,15 @@ Session01_Python_element_1
 ---
   - 이영준(교육 1팀장)
 
+파일소개
+---
+   
+ - PDF 
+ - csv
+ - Python 
+ 
+
+
 목차
 ---
    
