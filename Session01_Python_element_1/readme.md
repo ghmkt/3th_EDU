@@ -1,4 +1,4 @@
-Session01_Python_element_119
+Session01_Python_element_1
 ===
 
 세션목표
