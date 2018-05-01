@@ -13,7 +13,7 @@ Session09_Regression
 파일소개
 ---
    
- - Session_PPT(./Session09_Regression.pdf) 
+ - Session_PPT(./Session9_Regression.pdf) 
  - csv
  - Python 
  
