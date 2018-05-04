@@ -13,10 +13,8 @@ Session02_Python_element_2
 파일소개
 ---
    
- - [Sesstion_PPT](./Session2_Python_element_2.pdf) 
- - csv
- - Python 
- 
+ - [Sesstion_PPT](./Session1_Python_element_2.pdf) 세션발표에서 사용된 PPT파일입니다.
+ - [Quest_Answer](./PythonSession_Quiz_Ans_2.py) 퀘스트 정답 파일입니다.
 
 
 목차
@@ -35,9 +33,4 @@ Session02_Python_element_2
  - 백준 알고리즘 2839번 https://www.acmicpc.net/problem/2839
  - 백준 알고리즘 4344번 https://www.acmicpc.net/problem/4334
 
-퀘스트 정답
----
-   
- - 백준 알고리즘 1924번 
- - 백준 알고리즘 2839번
- - 백준 알고리즘 4344번 
+
