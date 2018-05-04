@@ -13,9 +13,8 @@ Session01_Python_element_1
 파일소개
 ---
    
- - [Sesstion_PPT](./Session1_Python_element_1.pdf) 
- - csv
- - Python 
+ - [Sesstion_PPT](./Session1_Python_element_1.pdf) 세션발표에서 사용된 PPT파일입니다.
+ - [Python](./PythonSession_Quiz_Ans_1.py) 퀘스트 정답 파일입니다.
  
 
 
@@ -34,10 +33,3 @@ Session01_Python_element_1
  - 백준 알고리즘 1924번 https://www.acmicpc.net/problem/1924
  - 백준 알고리즘 2839번 https://www.acmicpc.net/problem/2839
  - 백준 알고리즘 4344번 https://www.acmicpc.net/problem/4334
-
-퀘스트 정답
----
-   
- - 백준 알고리즘 1924번 
- - 백준 알고리즘 2839번
- - 백준 알고리즘 4344번 
