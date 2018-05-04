@@ -13,31 +13,28 @@ Session02_Python_element_2
 파일소개
 ---
    
- - [Sesstion_PPT](./Session2_Python_element_2.pdf) 
- - csv
- - Python 
- 
+ - [Sesstion_PPT](./Session2_Python_element_2.pdf) 세션발표에서 사용된 PPT파일입니다.
+ - [Quest_Answer](./PythonSession_Quiz_Ans_2.py) 퀘스트 정답 파일입니다.
 
 
 목차
 ---
    
- - 변수, 할당
- - 숫자, 문자 자료형
- - 리스트, 튜플, 딕셔너리 
- - 조건문, 
+ - 파이썬식 문법
+ - 함수 사용법
+ - 내장함수 
+ - 파일 입출력
+ - 예외처리
  
  
 퀘스트
 ---
-   
- - 백준 알고리즘 1924번 https://www.acmicpc.net/problem/1924
- - 백준 알고리즘 2839번 https://www.acmicpc.net/problem/2839
- - 백준 알고리즘 4344번 https://www.acmicpc.net/problem/4334
+   
+주어진 파일의 열을 뒤집는 파일을 바탕화면에 생성해주세요.
+ 1. 경로나 파일 명이 틀렸다면 "파일 경로 및 이름을 확인해주세요"를 출력해주세요
+ 2. 함수를 작성해서 문제를 풀어주세요
+ 3. 함수의 인자를 파일명으로 해주세요
+ 4. 출력 파일의 확장자 명은 csv로 지정해주세요
+ 5. 파일 생성이 끝나면 "생성완료"를 출력해주세요
 
-퀘스트 정답
----
-   
- - 백준 알고리즘 1924번 
- - 백준 알고리즘 2839번
- - 백준 알고리즘 4344번 
+
