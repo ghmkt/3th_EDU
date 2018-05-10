@@ -13,8 +13,8 @@ Session01_Python_element_1
 파일소개
 ---
    
- - [Sesstion_PPT](./Session1_Python_element_1.pdf) 세션발표에서 사용된 PPT파일입니다.
- - [Quest_Answer](./PythonSession_Quiz_Ans_1.py) 퀘스트 정답 파일입니다.
+ - [Sesstion_PPT](./Session01_Python_element_1.pdf) 세션발표에서 사용된 PPT파일입니다.
+ - [Quest_Answer](./Session01_Quest_answer_1.py) 퀘스트 정답 파일입니다.
  
 
 
