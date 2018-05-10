@@ -13,8 +13,8 @@ Session03_Python_element_3
 파일소개
 ---
    
- - [Sesstion_PPT](./Session1_Python_element_3.pdf) 세션발표에서 사용된 PPT파일입니다.
- - [Quest_Answer](./PythonSession_Quiz_Ans_3.py) 퀘스트 정답 파일입니다.
+ - [Sesstion_PPT](./Session03_Python_element_3.pdf) 세션발표에서 사용된 PPT파일입니다.
+ - [Quest_Answer](./Session03_Quest_answer_3.py) 퀘스트 정답 파일입니다.
  - [Quest csv](./Quest_csv) 퀘스트에 이용되는 csv파일입니다.
  
 

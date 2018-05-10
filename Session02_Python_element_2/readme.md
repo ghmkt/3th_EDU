@@ -13,8 +13,8 @@ Session02_Python_element_2
 파일소개
 ---
    
- - [Sesstion_PPT](./Session2_Python_element_2.pdf) 세션발표에서 사용된 PPT파일입니다.
- - [Quest_Answer](./PythonSession_Quiz_Ans_2.py) 퀘스트 정답 파일입니다.
+ - [Sesstion_PPT](./Session02_Python_element_2.pdf) 세션발표에서 사용된 PPT파일입니다.
+ - [Quest_Answer](./Session02_Quest_answer_2.py) 퀘스트 정답 파일입니다.
 
 
 목차
