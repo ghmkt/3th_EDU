@@ -9,7 +9,7 @@ Session04_Data_Acquistion
 
 담당자
 ---
- - 김재훈
+ - 김재훈(교육 2팀장)
 
 파일소개
 ---
