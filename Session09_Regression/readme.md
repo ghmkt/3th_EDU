@@ -13,9 +13,9 @@ Session09_Regression
 파일소개
 ---
    
- - [Session_PPT](./Session9_Regression(2018).pdf) 
- - csv
- - Python 
+ - [Session_PPT](./Session9_Regression.pdf) 강의로 사용될 pdf파일입니다.
+ - [csv](./reg_quest.csv) 퀘스트에 사용될 csv파일입니다.
+ - [Python](./실습용 파일) 실습용파일입니다.
  
 
 
@@ -31,7 +31,4 @@ Session09_Regression
  
 퀘스트
 ---
-   
- - 백준 알고리즘 1924번 https://www.acmicpc.net/problem/1924
- - 백준 알고리즘 2839번 https://www.acmicpc.net/problem/2839
- - 백준 알고리즘 4344번 https://www.acmicpc.net/problem/4334
+  sklearn혹은 statsmodel을 이용하여 reg_quest.csv에 있는 데이터들을 이용하여 단순/다중 회귀를 
