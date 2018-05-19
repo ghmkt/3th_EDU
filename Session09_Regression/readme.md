@@ -13,7 +13,7 @@ Session09_Regression
 파일소개
 ---
    
- - [Session_PPT](./Session9_Regression.pdf) 
+ - [Session_PPT](./Session9_Regression(2018).pdf) 
  - csv
  - Python 
  
@@ -25,7 +25,8 @@ Session09_Regression
  - 회귀분석의 기초
  - 로지스틱 회귀분석
  - 회귀모형 추정 
- - 단순,다중 회귀분석
+ - 단순,다중 회귀분석 in python
+ - sklearn & statsmodel
  
  
 퀘스트
