@@ -5,8 +5,9 @@ Growth Hacker Python Education Session
 ---
  - 최고의 Grwth Hacker가 되기 위해 파이썬을 배워보자
 
-담당자
+Session Github 담당자
 ---
+ - 정재근(내부운영 팀장)
  - 이영준(교육 1팀장) + 2기
 
 세션으로 
