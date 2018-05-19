@@ -15,7 +15,7 @@ Session09_Regression
    
  - [Session_PPT](./Session9_Regression.pdf) 강의로 사용될 pdf파일입니다.
  - [csv](./reg_quest.csv) 퀘스트에 사용될 csv파일입니다.
- - [Python](./실습용 파일) 실습용파일입니다.
+ - [Python](./실습용파일) 실습용파일입니다.
  
 
 
