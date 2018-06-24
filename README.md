@@ -3,7 +3,7 @@ Growth Hacker Python Education Session
 
 세션 목표
 ---
- - 최고의 Grwth Hacker가 되기 위해 파이썬을 배워보자
+ - 최고의 Growth Hacker가 되기 위해 파이썬을 배워보자
 
 Session Github 담당자
 ---
